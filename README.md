@@ -1,5 +1,6 @@
 ## Kira
 Bar-Restaurant Landing Page
+![2025-01-15 13_14_25-Kira Edit - Figma](https://github.com/user-attachments/assets/35a14f50-f755-4459-9a90-0afbe643fb59)
 
 ## specialties:
 - responsive layout website. <br />
